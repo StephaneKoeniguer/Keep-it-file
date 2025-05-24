@@ -1,0 +1,48 @@
+# Global ignores
+.DS_Store
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+commit.sh
+
+# Node.js (Front-end)
+Front-end/node_modules/
+Front-end/coverage/
+Front-end/build/
+Front-end/.env.local
+Front-end/.env.development.local
+Front-end/.env.test.local
+Front-end/.env.production.local
+Front-end/package-lock.json
+Front-end/yarn.lock
+
+# Symfony (Back-end)
+Back-end/var/
+Back-end/vendor/
+Back-end/.env
+Back-end/.env.local
+Back-end/.env.test
+Back-end/.env.dev
+Back-end/.env.prod
+Back-end/.phpunit.result.cache
+Back-end/.vscode/
+Back-end/public/bundles/
+Back-end/node_modules/  # If Symfony uses Encore (Webpack)
+Back-end/package-lock.json
+Back-end/yarn.lock
+
+# Misc
+*.log
+*.swp
+*.bak
+*.tmp
+*.old
+
+# OS and IDE files
+Thumbs.db
+ehthumbs.db
+*.stackdump
+*.sublime-workspace
+*.sublime-project
