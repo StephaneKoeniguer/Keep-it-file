@@ -15,26 +15,19 @@
 - 📁 **Stockage sécurisé** : Organisez vos documents dans un espace centralisé et protégé.
 - 🔍 **Recherche rapide** : Trouvez vos fichiers en quelques secondes grâce à un moteur de recherche puissant.
 - 🌐 **Interface web responsive** : Accédez à vos fichiers depuis n'importe quel appareil.
-- 🔒 **Gestion des droits d'accès** : Contrôlez qui peut voir ou modifier vos documents.
-- 📑 **Prévisualisation des fichiers** : Consultez vos documents sans avoir à les télécharger.
-- 🗑️ **Corbeille** : Restaurez des fichiers supprimés accidentellement.
-- 🔄 **Historique des versions** : Suivez et récupérez les modifications apportées à vos documents.
+- 🤝 Partage facile des fichiers : Collaborez en toute simplicité en partageant vos documents avec des utilisateurs autorisés.
 
 ---
 
 ## **Technologies utilisées**
 ### **Backend**
-- [Symfony](https://symfony.com/) 6.4+ (migration prévue vers 7.1)
+- [Symfony](https://symfony.com/)
 
 ### **Frontend**
 - [React](https://reactjs.org/) pour une interface utilisateur dynamique
-- [React Native](https://reactnative.dev/) pour l'application mobile (en cours de développement)
 
 ### **Base de données**
 - [MySQL](https://www.mysql.com/) pour le stockage des données
-
-### **Infrastructure**
-- [Apache](https://httpd.apache.org/) pour le serveur web
 
 ---
 
